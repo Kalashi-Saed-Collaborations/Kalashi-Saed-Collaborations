@@ -17,11 +17,11 @@ Hello! 👋 We are graduate students passionate about research and development i
 Feel free to reach out to us for collaboration, inquiries, or discussions:
 
 - **Kamand Kalashi**: 
-  - 📧 kalashi.kamand@gmail.com
-  - 📬 kalashi.kamand@modares.ac.ir
+📧 kalashi.kamand [@] Gmail {.DOT.} com  
+📬 kalashi.kamand [@] modares.ac {.DOT.} ir
 
 - **Sajjad Saed**: 
-  - 📧 ssaed89@gmail.com
-  - 📬 saed_s@modares.ac.ir
+📧 ssaed89 [@] Gmail {.DOT.} com  
+📬 saed_s [@] modares.ac {.DOT.} ir
 
 We look forward to connecting and collaborating with you! 🤝
